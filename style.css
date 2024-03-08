@@ -1,0 +1,11 @@
+#myCarousel {
+	margin-bottom:8rem;
+}
+.carousel-item svg.bd-placeholder-img{
+	width:1000px;
+	height:100px;
+}
+
+#myCarousel{
+	background-color:red;
+}
